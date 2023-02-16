@@ -8,4 +8,5 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
  [sass-proje](https://hilal-1202.github.io/sass-proje/)<h3>[Repo](https://github.com/hilal-1202/sass-proje)</h3> | HTML, PureCSS, Sass | ![sass](https://user-images.githubusercontent.com/118962463/219038007-a7af7c1a-08b7-416a-9094-f8d73d35ce3e.gif)
 [Bootstrap](https://hilal-1202.github.io/sass-proje/)<h3>[Repo](https://github.com/hilal-1202/Bootstrap)</h3> | HTML, PureCSS, Bootstrap |![bootstrap](https://user-images.githubusercontent.com/118962463/219041175-c1f92d92-8086-41b4-9ea2-096367841731.gif)
 [tas-kagit-makas](https://hilal-1202.github.io/tas-kagit-makas/)<h3>[Repo](https://github.com/hilal-1202/tas-kagit-makas)</h3> | HTML, PureCSS, js| ![tas-kagit-makas](https://user-images.githubusercontent.com/118962463/219324048-c4171dec-ddbe-4f1d-b3e7-9531df98c6d2.gif)
+[todolist](https://hilal-1202.github.io/todolist/)<h3>[Repo](https://github.com/hilal-1202/todolist)</h3> | HTML, PureCSS, js|![todo list](https://user-images.githubusercontent.com/118962463/219325032-cccfb927-868a-48e5-8b16-2949666bfb07.gif)
 

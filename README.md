@@ -11,4 +11,5 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
 [todolist](https://hilal-1202.github.io/todolist/)<h3>[Repo](https://github.com/hilal-1202/todolist)</h3> | HTML, PureCSS, js|![todo list](https://user-images.githubusercontent.com/118962463/219325032-cccfb927-868a-48e5-8b16-2949666bfb07.gif)
 [random-password](https://hilal-1202.github.io/random-password/)<h3>[Repo](https://github.com/hilal-1202/random-password)</h3> | HTML, PureCSS, js|![random password](https://user-images.githubusercontent.com/118962463/219940682-30316dc9-782e-4add-b822-38612f2b9c06.gif)
 [dijital-saat](https://hilal-1202.github.io/dijital-saat/)<h3>[Repo](https://github.com/hilal-1202/dijital-saat)</h3> | HTML, PureCSS, js|![dijital saat](https://user-images.githubusercontent.com/118962463/219940797-8bfac560-ae46-4d18-ac66-6801726cab31.gif)
+[checkout](https://hilal-1202.github.io/checkout/)<h3>[Repo](https://github.com/hilal-1202/checkout)</h3> | HTML, PureCSS, js|![checkout](https://user-images.githubusercontent.com/118962463/220357431-0e02568b-24e2-42ec-be1b-017ac5621b62.gif)
 

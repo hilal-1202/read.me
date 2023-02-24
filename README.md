@@ -13,4 +13,5 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
 [dijital-saat](https://hilal-1202.github.io/dijital-saat/)<h3>[Repo](https://github.com/hilal-1202/dijital-saat)</h3> | HTML, PureCSS, js|![dijital saat](https://user-images.githubusercontent.com/118962463/219940797-8bfac560-ae46-4d18-ac66-6801726cab31.gif)
 [checkout](https://hilal-1202.github.io/checkout/)<h3>[Repo](https://github.com/hilal-1202/checkout)</h3> | HTML, PureCSS, js|![checkout](https://user-images.githubusercontent.com/118962463/220357431-0e02568b-24e2-42ec-be1b-017ac5621b62.gif)
 [Guess_The_Number](https://hilal-1202.github.io/Guess_The_Number/)<h3>[Repo](https://github.com/hilal-1202/Guess_The_Number)</h3> | HTML, PureCSS, js|![gues the number](https://user-images.githubusercontent.com/118962463/220888316-33298014-76ed-491b-a1bf-0fa2288a465e.gif)
+[exercises.react](https://hilal-1202.github.io/exercises.react/)<h3>[Repo](https://github.com/hilal-1202/exercises.react)</h3> | HTML, PureCSS, js react|![tablo](https://user-images.githubusercontent.com/118962463/221189703-d36e72c5-abe2-4c4a-8df3-34239ec8bf61.gif)
 

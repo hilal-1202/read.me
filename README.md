@@ -14,7 +14,8 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
 [checkout](https://hilal-1202.github.io/checkout/)<h3>[Repo](https://github.com/hilal-1202/checkout)</h3> | HTML, PureCSS, js|![checkout](https://user-images.githubusercontent.com/118962463/220357431-0e02568b-24e2-42ec-be1b-017ac5621b62.gif)
 [Guess_The_Number](https://hilal-1202.github.io/Guess_The_Number/)<h3>[Repo](https://github.com/hilal-1202/Guess_The_Number)</h3> | HTML, PureCSS, js|![gues the number](https://user-images.githubusercontent.com/118962463/220888316-33298014-76ed-491b-a1bf-0fa2288a465e.gif)
 [exercises.react](https://hilal-1202.github.io/exercises.react/)<h3>[Repo](https://github.com/hilal-1202/exercises.react)</h3> | HTML, PureCSS, js react|![tablo](https://user-images.githubusercontent.com/118962463/221351719-a81f8add-2ecc-4bdd-b852-8db99ac5827f.gif)
-[interview-acord](https://hilal-1202.github.io/interview-acord/)<h3>[Repo](https://github.com/hilal-1202/interview-acord)</h3> | HTML, PureCSS, js react|
-![interview-acord](https://user-images.githubusercontent.com/118962463/222252824-fffc7c2f-3095-42b6-b998-af69dc09a1e8.gif)
+[interview-acord](https://hilal-1202.github.io/interview-acord/)<h3>[Repo](https://github.com/hilal-1202/interview-acord)</h3> | HTML, PureCSS, js react|![interview-acord](https://user-images.githubusercontent.com/118962463/222253614-043976d0-fda0-45e3-b07a-34d68346ff5d.gif)
+
+
 
 
